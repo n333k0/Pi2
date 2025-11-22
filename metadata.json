@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pi Irrationality Visualizer",
+  "description": "A scroll-driven interactive visualization demonstrating the irrationality of Pi using a non-repeating radian walk, featuring AI-powered explanations.",
+  "requestFramePermissions": []
+}
